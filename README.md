@@ -1,2 +1,2 @@
 # CC-106395
-This repository contains assignments and project submitted to DM course offered in Fall 2020 at PafKiet.
+This repository contains assignments and project submitted to Compiler Construction course offered in Spring 2021 at PafKiet.
